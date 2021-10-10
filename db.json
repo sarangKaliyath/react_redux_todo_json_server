@@ -1,0 +1,17 @@
+{
+  "todo": [
+    {
+      "title": "Alpha",
+      "id": 1
+    },
+    {
+      "title": "Bravo",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Charlie",
+      "id": 4
+    }
+  ]
+}
